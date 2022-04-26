@@ -1,0 +1,18 @@
+.menu-bar {
+    display: flex;
+    justify-content: space-around;  
+}
+
+
+img{
+        height: 103px;
+
+}
+body{
+    background: url("https://www.publicdomainpictures.net/pictures/60000/velka/silver-background-for-christmas.jpg"); 
+}
+.photos { 
+    display: flex;
+    justify-content: center;
+
+}
